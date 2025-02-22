@@ -5,7 +5,6 @@ import json
 
 root=Tk()
 root.title("Air quality detector")
-#root.iconbitmap('c:/Users/Garima Singh/Desktop/image.png')
 root.geometry("800x40")
 root.configure(background='green')
 
